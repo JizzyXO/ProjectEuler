@@ -1,5 +1,5 @@
-public class TaskNumber3 {
-    public static void taskNumber3(){
+public class TaskNumberThree {
+    public static void taskNumberThree(){
         int i =1;
         long num = 600851475143L;
         while (num != 0) {
